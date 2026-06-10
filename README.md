@@ -7,7 +7,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  prowhybraindead@terminal:~$  ▮                              ║
+║  pr0w4@terminal:~$  ▮                              ║
 ║  > Vibe coder · Strategic planner · Gamer off-duty       ║
 ║  > Turning caffeine + strategy into shipped products     ║
 ║  > Then fragging enemies after hours.                    ║
@@ -41,7 +41,7 @@
 <td>
 
 ```yaml
-name:     prowhybraindead
+name:     pr0w4
 role:     Vibe Coder & Strategic Planner
 status:   🟢 Building in public
 location: 🌏 Southeast Asia
@@ -70,7 +70,7 @@ currently_playing:
 
 | Account | Purpose | Status |
 |---------|---------|--------|
-| 💜 **[@prowhybraindead](https://github.com/prowhybraindead)** | Personal vibe projects, fun ideas, late-night builds | `🟢 active` |
+| 💜 **[@pr0w4](https://github.com/pr0w4)** | Personal vibe projects, fun ideas, late-night builds | `🟢 active` |
 | 💚 **[@luciusdev11](https://github.com/luciusdev11)** | University coursework, academic team projects | `🟢 active` |
 
 ---
@@ -166,7 +166,7 @@ currently_playing:
 ```bash
 #!/bin/bash
 
-# prowhybraindead's vibe coding pipeline
+# pr0w4's vibe coding pipeline
 
 step1() {
   echo "[1/4] Defining the problem..."
@@ -231,7 +231,7 @@ step1 && step2 && step3 && step4
 
 <div align="center">
 
-[![CafeToolBox](https://img.shields.io/badge/🔭_Building-CafeToolBox-7F77DD?style=for-the-badge)](https://github.com/prowhybraindead/cafetoolbox)
+[![CafeToolBox](https://img.shields.io/badge/🔭_Building-CafeToolBox-7F77DD?style=for-the-badge)](https://github.com/pr0w4/cafetoolbox)
 [![Learning](https://img.shields.io/badge/🌱_Learning-DART-1D9E75?style=for-the-badge)](/)
 [![Contact](https://img.shields.io/badge/📫_Contact-prowhy.home@proton.me-D4537E?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:prowhy.home@proton.me)
 
@@ -240,16 +240,16 @@ step1 && step2 && step3 && step4
 ---
 
 <!-- GITHUB STATS -->
-## `$ gh stats --user prowhybraindead`
+## `$ gh stats --user pr0w4`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prowhybraindead&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prowhybraindead&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pr0w4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0w4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prowhybraindead&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D4537E&currStreakLabel=1D9E75" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr0w4&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D4537E&currStreakLabel=1D9E75" />
 
 </div>
 
@@ -258,7 +258,7 @@ step1 && step2 && step3 && step4
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prowhybraindead&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D4537E&area=true&hide_border=true)](https://github.com/prowhybraindead)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pr0w4&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D4537E&area=true&hide_border=true)](https://github.com/pr0w4)
 
 </div>
 
@@ -273,6 +273,6 @@ step1 && step2 && step3 && step4
 ╚═══════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=prowhybraindead&color=7F77DD&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=pr0w4&color=7F77DD&style=flat-square&label=profile+views)
 
 </div>
